@@ -114,7 +114,7 @@ const App = () => {
                 mb={4}
               />
               <Text fontSize="2xl" fontWeight="bold">
-                Your wish my command 😊... See you tomorrow at 4:20 PM
+                Your wish is my command 😊... See you tomorrow at 4:20 PM
               </Text>
             </>
           ) : (
