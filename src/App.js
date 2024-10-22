@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import { Box, Button, Center, Text, Image, Flex } from '@chakra-ui/react';
 import backgroundImage from './background1.jpg'; // Import your background image
-import yesImage from './yes.png'; // Import the "Yes" image
+import yesImage from './yes2.png'; // Import the "Yes" image
 import please1 from './please1.gif'; // Import random images
 import please2 from './please2.gif';
 import please3 from './please3.gif';
@@ -114,7 +114,7 @@ const App = () => {
                 mb={4}
               />
               <Text fontSize="2xl" fontWeight="bold">
-                Your wish is my command 😊... See you tomorrow at 4:20 PM
+                Jaba nah jokhon taile yes kno click korla ??😔😔
               </Text>
             </>
           ) : (
