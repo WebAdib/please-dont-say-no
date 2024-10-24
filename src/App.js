@@ -80,7 +80,7 @@ const App = () => {
           opacity={0.9} 
         >
           <Text fontSize="2xl" mb={4} fontWeight="bold">
-            Nami, do you wanna play a game with me? 🤗
+            Namexyz, do you wanna play a game with me? 🤗
           </Text>
           <Button
             bg="#af8f87"
